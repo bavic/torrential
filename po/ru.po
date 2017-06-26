@@ -24,29 +24,29 @@ msgid "Paused"
 msgstr ""
 
 #: ../src/Widgets/TorrentListRow.vala:134
-msgid "%d day"
-msgid_plural "%d days"
+msgid "%d день"
+msgid_plural "%d дней"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
 #: ../src/Widgets/TorrentListRow.vala:135
-msgid "%d hour"
-msgid_plural "%d hours"
+msgid "%d час"
+msgid_plural "%d часов"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
 #: ../src/Widgets/TorrentListRow.vala:136
-msgid "%d minute"
-msgid_plural "%d minutes"
+msgid "%d минута"
+msgid_plural "%d минут"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
 #: ../src/Widgets/TorrentListRow.vala:137
-msgid "%d second"
-msgid_plural "%d seconds"
+msgid "%d секунда"
+msgid_plural "%d секунд"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -56,7 +56,7 @@ msgid "Next Warning"
 msgstr ""
 
 #: ../src/Widgets/MultiInfoBar.vala:35 ../src/PreferencesWindow.vala:52
-msgid "Close"
+msgid "Закрыть"
 msgstr ""
 
 #: ../src/Widgets/MultiInfoBar.vala:69
@@ -67,7 +67,7 @@ msgstr[1] ""
 msgstr[2] ""
 
 #: ../src/Widgets/TorrentListBox.vala:76
-msgid "Remove"
+msgid "Удалить"
 msgstr ""
 
 #: ../src/Widgets/TorrentListBox.vala:84
@@ -79,15 +79,15 @@ msgid "translator-credits"
 msgstr ""
 
 #: ../src/PreferencesWindow.vala:33 ../src/MainWindow.vala:260
-msgid "Preferences"
+msgid "Настройки"
 msgstr ""
 
 #: ../src/PreferencesWindow.vala:42
-msgid "General"
+msgid "Основные"
 msgstr ""
 
 #: ../src/PreferencesWindow.vala:43
-msgid "Advanced"
+msgid "Дополнительные"
 msgstr ""
 
 #: ../src/PreferencesWindow.vala:80
@@ -111,7 +111,7 @@ msgid "Randomise BitTorrent port on launch:"
 msgstr ""
 
 #: ../src/PreferencesWindow.vala:99
-msgid "Port number:"
+msgid "Номер порта:"
 msgstr ""
 
 #: ../src/PreferencesWindow.vala:101
@@ -123,7 +123,7 @@ msgid "Blocklist URL:"
 msgstr ""
 
 #: ../src/PreferencesWindow.vala:130
-msgid "Security"
+msgid "Безопасность"
 msgstr ""
 
 #: ../src/PreferencesWindow.vala:137
@@ -135,7 +135,7 @@ msgid "Download Location"
 msgstr ""
 
 #: ../src/PreferencesWindow.vala:149
-msgid "Select Download Folder…"
+msgid "Выберите папку для загрузок…"
 msgstr ""
 
 #: ../src/PreferencesWindow.vala:159
